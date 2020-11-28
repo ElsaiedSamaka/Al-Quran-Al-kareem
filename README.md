@@ -1,16 +1,18 @@
-# alquranMobile
+# Alquran Alkareem
 
-A new Flutter project.
+Quran app w/ Flutter
 
-## Getting Started
+## Quick review
 
-This project is a starting point for a Flutter application.
+This project has been built w/ Flutter + Cubit/BLoC 
 
-A few resources to get you started if this is your first Flutter project:
+A few screans:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![screenshot_1](https://user-images.githubusercontent.com/53364768/100526428-8ab55e80-31d1-11eb-9350-d5808587558c.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screenshot_2](https://user-images.githubusercontent.com/53364768/100526677-e54fba00-31d3-11eb-83e2-d5a2d8d19dd5.png)
+
+![screenshot_3](https://user-images.githubusercontent.com/53364768/100526693-10d2a480-31d4-11eb-9599-d2cff43d7b6a.png)
+
+![screenshot_4](https://user-images.githubusercontent.com/53364768/100526711-32339080-31d4-11eb-9d56-385714321285.png)
+
